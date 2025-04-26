@@ -1,1 +1,1 @@
-deneme
+SELECT * FROM rantels
