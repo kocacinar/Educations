@@ -1,0 +1,1 @@
+bu dosya eğitim ödevleri ve alıştırmaları için oluşturulmuştur.
