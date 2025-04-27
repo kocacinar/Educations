@@ -15,3 +15,4 @@ JOIN customer c ON c.customer_id = p.customer_id
 SELECT r.rental_id, c.first_name, c.last_name
 FROM customer c 
 JOIN rental r ON r.customer_id = c.customer_id
+
